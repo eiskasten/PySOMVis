@@ -1,0 +1,18 @@
+#10clusters_1100 prop file
+# somtoolbox [GrowingSOM, --numberWinners, 300, --cpus, 8, 
+#   /home/richi/Dokumente/tu/2023-ws/sos/PySOMVis/PySOMVis/datasets/10clusters/compare/10clusters_1100.prop]
+#
+#Sun Feb 04 16:59:42 CET 2024
+workingDirectory=/home/richi/Dokumente/tu/2023-ws/sos/PySOMVis/PySOMVis/datasets/10clusters/compare
+tau=1.0
+templateFileName=/home/richi/Dokumente/tu/2023-ws/sos/PySOMVis/PySOMVis/datasets/10clusters/10clusters.tv
+ySize=10
+learnRate=0.7
+randomSeed=7
+numIterations=1100
+namePrefix=10clusters_1100
+vectorFileName=/home/richi/Dokumente/tu/2023-ws/sos/PySOMVis/PySOMVis/datasets/10clusters/10clusters.vec
+sparseData=no
+outputDirectory=/home/richi/Dokumente/tu/2023-ws/sos/PySOMVis/PySOMVis/datasets/10clusters/compare
+xSize=10
+isNormalized=no
